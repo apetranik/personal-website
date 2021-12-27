@@ -1,0 +1,4 @@
+baseURL = 'https://aliyapetranik.com'
+languageCode = 'en-us'
+title = 'Aliya Petranik'
+theme = "researcher"
