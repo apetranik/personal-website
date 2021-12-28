@@ -24,6 +24,10 @@ Software Engineering Intern - 2019
 Software Engineering Intern - 2018
 * Configuration tools in `Python`
 
+**Computer Systems (CS356)** - 2018-20 \
+Course Producer (Teaching Assistant)
+* Held office hours - basic computer architecture, assignments in `C` and `C++`
+
 **Oceanit** - Honolulu, HI \
 Software Development Intern - 2017
 * Working in `C` on Raspberry Pi
