@@ -1,4 +1,5 @@
-baseURL = 'https://apetranik.github.io/personal-website'
+baseURL = 'https://www.aliyapetranik.com'
 languageCode = 'en-us'
 title = 'Aliya Petranik Personal Website'
 theme = "researcher"
+publishDir = "docs"
