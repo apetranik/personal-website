@@ -1,4 +1,4 @@
-baseURL = 'https://apetranik.github.io'
+baseURL = 'https://apetranik.github.io/personal-website'
 languageCode = 'en-us'
 title = 'Aliya Petranik Personal Website'
 theme = "researcher"
