@@ -1,5 +1,5 @@
-baseURL = 'https://www.aliyapetranik.com'
+baseURL = 'https://aliyapetranik.com'
 languageCode = 'en-us'
-title = 'Aliya Petranik Personal Website'
+title = 'Aliya Petranik'
 theme = "researcher"
 publishDir = "docs"
